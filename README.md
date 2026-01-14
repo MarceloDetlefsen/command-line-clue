@@ -1,3 +1,16 @@
+# CRIME SOLVED!
+
+Suspect: The Journalist
+Weapon: "Wooden Box
+Room: "Council Chamber
+
+🎉 CONGRATULATIONS DETECTIVE! 🎉
+You have correctly identified the killer, the weapon, and the location!
+It was The Journalist with the Wooden Box in the Council Chamber.
+The town is safe once again thanks to your command line skills.
+
+--------------------------------------------------------------------------------------------------------
+
 # Mystery in the Small Town: A Command Line Investigation Game
 
 Welcome, Detective! A crime has occurred in our small town, and we need your command line investigation skills to solve it. You'll explore different locations, gather clues, and use your powers of deduction to find the culprit.
