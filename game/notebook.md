@@ -3,18 +3,20 @@
 ## Suspects
 - [X] The Postman
 - [X] The Gardener
-- [ ] The Journalist
-- [ ] The Musician
-- [ ] The Tailor
+- [ ] The Journalist <---- THIS IS THE ONE!
+- [X] The Musician (added by the mention)
+- [X] The Tailor (founded on a random .txt)
 
 ## Weapons
 - [X] Letter Opener
 - [X] Kitchen Knife
-- [ ] Wooden Box
-- [X] Glass Bottle
-- [X] Garden Shears
+- [ ] Wooden Box <----- THIS IS THE ONE!
+- [X] Glass Bottle (founded on a random .txt)
+- [X] Garden Shears (founded on a random .txt)
 
-## Notes
-*Use this space to record your findings and deductions...*
-
-Location of the crime is still unknown - the room must have been empty when it happened...
+## Room
+- [1] Cottage
+- [2] Study (Residential Area)
+- [3] Kitchen (School)
+- [4] Kitchen (Shops)
+- [5] Council Chamber (Town Hall) <---- THIS IS THE ONE!
