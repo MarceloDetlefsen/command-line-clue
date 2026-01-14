@@ -4,13 +4,15 @@
 - [X] The Postman
 - [X] The Gardener
 - [ ] The Journalist
-- [ ] Musician
+- [ ] The Musician
+- [ ] The Tailor
 
 ## Weapons
-- [ ] Letter Opener
+- [X] Letter Opener
 - [X] Kitchen Knife
 - [ ] Wooden Box
 - [X] Glass Bottle
+- [X] Garden Shears
 
 ## Notes
 *Use this space to record your findings and deductions...*
