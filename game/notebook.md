@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Postman
+- [X] The Postman
 - [X] The Gardener
 - [ ] The Journalist
 - [ ] Musician
