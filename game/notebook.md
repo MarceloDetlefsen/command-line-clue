@@ -2,8 +2,9 @@
 
 ## Suspects
 - [ ] The Postman
-- [ ] The Gardener
+- [X] The Gardener
 - [ ] The Journalist
+- [ ] Musician
 
 ## Weapons
 - [ ] Letter Opener
